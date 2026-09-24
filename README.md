@@ -27,6 +27,6 @@ No. This is an **independent, unofficial** study guide - not produced or endorse
 
 Note: this qualification has four occupational specialism pathways (Mechanical Engineering, Electrical and Electronic Engineering, Control and Instrumentation Engineering, Structural Engineering). This guide covers **Mechanical Engineering only**, as that's the pathway taught at UTC Leeds - it does not cover the other three.
 
-## Found a mistake, or want to help improve it?
+## Found a mistake?
 
-See the Developers page on the website (or [`content/04-help-and-about/02-developers.md`](content/04-help-and-about/02-developers.md)) for how to report an issue or contribute a fix.
+See the Developers page on the website (or [`content/04-help-and-about/02-developers.md`](content/04-help-and-about/02-developers.md)) for how to report a mistake or suggest a topic.
