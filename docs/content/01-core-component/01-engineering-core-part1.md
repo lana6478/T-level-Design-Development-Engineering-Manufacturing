@@ -12,17 +12,29 @@ Covers the types of manufacturing process (wasting, forming, shaping, joining, f
 
 Students need to know how different manufacturing processes and requirements shape a design, the steps of linear versus iterative design and how testing feeds into reaching a suitable design, and how to interpret anthropometric (ergonomic) data.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Design Principles and Manufacturing Approaches](../05-teaching-resources/slides/core/01-design-principles-and-manufacturing-approaches.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
+
 ### 1.2 The role of maintenance, repair and installation in engineering
 
 Covers types of maintenance activity (planned, reactive, preventative, condition-based monitoring), the roles involved (machine operator, maintenance engineer, maintenance manager), operations (monitoring, repair, shutdown, servicing), the tools/equipment/measurement devices used, installation requirements, and how new technology and environmental pressures are changing maintenance practice.
 
 Students need to know the purpose of each maintenance approach and its pros/cons, who's responsible for what, why shutdown/servicing happens, an overview of the tools and equipment involved, the reasons for commissioning, and how good maintenance reduces environmental impact and supports safe waste disposal.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Maintenance, Repair and Installation](../05-teaching-resources/slides/core/02-maintenance-repair-and-installation.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
+
 ### 1.3 Approaches to manufacturing, processing and control
 
 Covers the scale of manufacture (one-off, batch, mass, continuous), manufacturing infrastructure (functional, product and matrix arrangements, cellular manufacture, production lines), levels of automation (manual, computer-aided manufacture/CAM, fully automated, robotic), and control infrastructure (performance monitoring, quality assurance, quality control).
 
 Students need to know how scale of manufacture relates to automation level, examples of products made at different scales, the different manufacturing infrastructures and their trade-offs, and the purpose and application of CAM systems/software.
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Design Principles and Manufacturing Approaches](../05-teaching-resources/slides/core/01-design-principles-and-manufacturing-approaches.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
 
 ## 2. Engineering and manufacturing past, present and future
 
@@ -38,6 +50,10 @@ Covers how developments like new materials, electrical power and lighting, the i
 
 Covers how emerging technologies and trends (AI, VR, AR, digitalisation, robotics, drones, autonomous systems, distributed energy, hybrid technologies, cyber-physical systems, IoT, cloud computing, sustainability/circular economy) could influence manufacturing and social/economic development going forward.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Engineering Past, Present and Future](../05-teaching-resources/slides/core/03-engineering-past-present-and-future.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
+
 ## 3. Engineering representations
 
 ### 3.1 Drawings and information conveyed by drawings
@@ -49,6 +65,10 @@ Students need to know the purpose and audience of different drawing types, the u
 ### 3.2 Dimensions and tolerancing on engineering drawings
 
 Covers linear, diameter, radius and angular dimensions, tolerances, limits and fits, and geometric dimensioning and tolerancing (GDT) symbols (datum, parallelism, perpendicularity, concentricity, straightness). Students need to interpret dimensions and drawing symbols and calculate tolerances, limits and fits.
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Engineering Drawings, Dimensions and Tolerancing](../05-teaching-resources/slides/core/04-engineering-drawings-and-tolerancing.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
 
 ## 4. Essential mathematics for engineering and manufacturing
 
@@ -66,6 +86,10 @@ A broad toolkit students must apply to engineering problems:
 ### 4.2 Number systems used in engineering and manufacturing
 
 Covers decimal, binary and hexadecimal number systems: how to identify and convert between them, and where each is used in engineering and manufacturing.
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Essential Mathematics for Engineering](../05-teaching-resources/slides/core/05-essential-mathematics.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
 
 ## 5. Essential science for engineering and manufacturing
 
@@ -85,13 +109,25 @@ Covers the scientific method (observation, questioning, hypothesis, prediction/s
 
 Covers measurement equipment (rules, callipers, micrometers, gauges, dial test indicators, coordinate measuring machines/CMM) and principles (precision, accuracy, uncertainty, resolution, calibration, tolerance) - what each piece of equipment measures, how to use it, and its relative accuracy and limitations.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Units, Measurement and Scientific Method](../05-teaching-resources/slides/core/06-units-measurement-and-scientific-method.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
+
 ### 5.5 Chemical composition and behaviours
 
 Covers atomic structure (atom, nucleus, electron, proton, neutron, valence, ion, element, molecule), chemical structure (solutions, suspensions, solubility, compounds and mixtures), the periodic table, chemical behaviour in electricity (cells, cell/power capacity, internal resistance), electrolysis, and how metals/alloys react with acids and alkalis - including applications like etching, surface finishing, bonding, and oils/lubricants.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Materials: Chemistry, Properties and Structures](../05-teaching-resources/slides/core/09-materials-chemistry-properties-and-structures.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
+
 ### 5.6 Forces and motion in engineering
 
 Covers types of motion (rotary, linear, reciprocating, oscillating), pressure, vector representation of forces, balanced/unbalanced forces, moments, torque, equilibrium and coplanar forces - applying the theory and calculations to solve practical problems.
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Forces, Motion and Energy](../05-teaching-resources/slides/core/07-forces-motion-and-energy.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
 
 ### 5.7 Fluid dynamics in engineering
 
@@ -100,6 +136,10 @@ Covers hydrostatic pressure and thrust, centre of pressure, viscosity, Bernoulli
 ### 5.8 Thermodynamics in engineering
 
 Covers heat transfer mechanisms (conduction, convection, radiation), open/closed systems, sensible and latent heat, expansivity, and the gas laws (Boyle's law, Charles' law, the general and characteristic gas equations) - applying theory and calculations to practical thermodynamics problems.
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Fluid Dynamics and Thermodynamics](../05-teaching-resources/slides/core/08-fluid-dynamics-and-thermodynamics.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
 
 ## 6. Materials and their properties
 
@@ -110,6 +150,10 @@ Physical properties: density, melting point, thermal/electrical conductivity, th
 ### 6.2 Types of material and their structures
 
 Covers ferrous metals, non-ferrous metals, thermoplastic and thermosetting polymers, elastomers, composites (GRP, CRP, MDF), engineering ceramics, timber, and smart materials (shape memory alloys, quantum tunnelling composites, thermochromic/photochromic materials, piezoelectric crystals), plus structural concepts: atomic structure, bonding mechanisms (metallic, covalent, ionic, van der Waals), microstructure, lattice structure, crosslinking of polymers, and composite structures.
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Materials: Chemistry, Properties and Structures](../05-teaching-resources/slides/core/09-materials-chemistry-properties-and-structures.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
 
 ### 6.3 The effects of processing techniques on materials
 
@@ -127,6 +171,10 @@ Causes: corrosion (oxidation, chemical attack, stress corrosion), ageing, and ph
 
 Methods: visual inspection, tensile testing, toughness testing, hardness testing, corrosion resistance, wear resistance, fatigue (Wohler) testing, electrical conductivity. Interpretation: Hooke's law, load-extension graphs (tensile strength, elastic limit, ultimate tensile strength, plastic deformation, stress/strain/Young's modulus calculations), characteristic graphs for different materials, and necking/transition zones in steel.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Material Processing, Treatment, Failure and Testing](../05-teaching-resources/slides/core/10-processing-treatment-failure-and-testing.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
+
 ## 7. Mechanical principles
 
 ### 7.1 Principles of motion and mechanics in engineering and manufacturing systems
@@ -137,6 +185,10 @@ Covers Newton's three laws of motion, types of forces (concurrent, non-concurren
 
 Covers conservation of momentum and energy, D'Alembert's principle, potential/kinetic energy, gravitational force, frictional resistance, mechanical work and power, and types of power source (mechanical, electrical, renewable). Students calculate displacement, velocity and acceleration for falling objects and collisions, explain tractive effort/braking force/friction/rotational kinetic energy/moment of inertia in practical contexts (flywheels, springs, pressurised fluids), and compare power sources (solar, hydro, wind, biofuel, geothermal, electric motors, internal combustion, fossil fuels, nuclear).
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Forces, Motion and Energy](../05-teaching-resources/slides/core/07-forces-motion-and-energy.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
+
 ## 8. Electrical and electronic principles
 
 ### 8.1 Principles of electrical and electronic systems
@@ -144,6 +196,32 @@ Covers conservation of momentum and energy, D'Alembert's principle, potential/ki
 A broad topic covering: basic electricity/electronics (flow of electrons, charge, energy, power, current, capacitance, waves, conduction, magnetism, electromagnetism, inductance, measurement of electrical quantities); electric circuit theory (voltage, AC/DC current, power, resistance, potential dividers, Ohm's law across series/parallel/combination circuits, Kirchhoff's laws, phasor diagrams, protection systems like lightning arrestors and RCDs); DC circuit networks (resistors/capacitors/inductors in series/parallel/combined circuits, semiconductors, hierarchical design); and signals (analogue vs. digital, waveform types, signal processing/conditioning, fan in/fan out).
 
 Students need to understand the physical principles behind electrical/electronic systems, magnetism and electromagnetism, circuit theory terminology and its use with Ohm's law to calculate voltage/current/resistance, AC voltage-current-power relationships (including graphs and phasor diagrams), protection scheme operation (differential and transformer protection), DC network characteristics including time constants, semiconductor diode/transistor properties and applications, and the characteristics of analogue versus digital signals and systems.
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Electrical and Electronic Principles](../05-teaching-resources/slides/core/11-electrical-and-electronic-principles.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
+
+<!-- teaching-resources:start -->
+## Teaching resources
+
+Ready-made lesson slides for this topic. Each PowerPoint includes learning objectives, a starter, teaching slides, a quiz with answers, an activity and an exit ticket, with teacher notes on every slide. Download it and adapt it for your class.
+
+| Lesson slides | Covers | Slides |
+|---|---|---|
+| [Design Principles and Manufacturing Approaches (PowerPoint)](../05-teaching-resources/slides/core/01-design-principles-and-manufacturing-approaches.pptx) | 1.1, 1.3 | 10 |
+| [Maintenance, Repair and Installation (PowerPoint)](../05-teaching-resources/slides/core/02-maintenance-repair-and-installation.pptx) | 1.2 | 9 |
+| [Engineering Past, Present and Future (PowerPoint)](../05-teaching-resources/slides/core/03-engineering-past-present-and-future.pptx) | 2.1, 2.2, 2.3 | 9 |
+| [Engineering Drawings, Dimensions and Tolerancing (PowerPoint)](../05-teaching-resources/slides/core/04-engineering-drawings-and-tolerancing.pptx) | 3.1, 3.2 | 10 |
+| [Essential Mathematics for Engineering (PowerPoint)](../05-teaching-resources/slides/core/05-essential-mathematics.pptx) | 4.1, 4.2 | 9 |
+| [Units, Measurement and Scientific Method (PowerPoint)](../05-teaching-resources/slides/core/06-units-measurement-and-scientific-method.pptx) | 5.1, 5.2, 5.3, 5.4 | 10 |
+| [Forces, Motion and Energy (PowerPoint)](../05-teaching-resources/slides/core/07-forces-motion-and-energy.pptx) | 5.6, 7.1, 7.2 | 10 |
+| [Fluid Dynamics and Thermodynamics (PowerPoint)](../05-teaching-resources/slides/core/08-fluid-dynamics-and-thermodynamics.pptx) | 5.7, 5.8 | 10 |
+| [Materials: Chemistry, Properties and Structures (PowerPoint)](../05-teaching-resources/slides/core/09-materials-chemistry-properties-and-structures.pptx) | 5.5, 6.1, 6.2 | 10 |
+| [Material Processing, Treatment, Failure and Testing (PowerPoint)](../05-teaching-resources/slides/core/10-processing-treatment-failure-and-testing.pptx) | 6.3, 6.4, 6.5, 6.6 | 9 |
+| [Electrical and Electronic Principles (PowerPoint)](../05-teaching-resources/slides/core/11-electrical-and-electronic-principles.pptx) | 8.1 | 10 |
+
+See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
+<!-- teaching-resources:end -->
 
 ## Key terms
 

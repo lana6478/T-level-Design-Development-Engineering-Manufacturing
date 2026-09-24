@@ -11,6 +11,7 @@ Part of the [UTC Leeds T Level Study Guides](https://lana6478.github.io/utc-leed
 - **The engineering common core** - the knowledge every student studies: working in the sector, engineering representations, maths and science for engineering, materials, mechanical/electrical/mechatronic principles, health and safety, business awareness, and the Employer-set Project.
 - **The Mechanical Engineering specialism** - design methodologies, engineering representations, mathematical methods, and the practical skills of designing, developing and testing mechanical solutions.
 - **Grading, progression and careers**, and **appendices** covering competency frameworks and further sources.
+- **Lesson slides for teachers** - 36 free, editable PowerPoint decks, one per subject, each with objectives, a starter, teaching slides, a quiz with answers, an activity and an exit ticket. Download them from the **Teaching resources** section of each topic page, or from the [Lesson Slides](content/05-teaching-resources/01-lesson-slides.md) index.
 
 Every page is written as clear, plain-English revision notes, cross-referenced to the numbering used in the official specification.
 

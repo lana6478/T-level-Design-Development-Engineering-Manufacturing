@@ -18,6 +18,10 @@ Covers PLC types (unitary, unitary with modular features, modular) and architect
 
 Covers the transmission of power, fluid compressibility, and components (valves, pumps, actuators, cylinders, compressors). Students need to know the differences between hydraulic and pneumatic systems and their relative advantages/limitations, and how the components function and appear on schematic diagrams.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Mechatronics, PLCs, Hydraulics and Pneumatics](../05-teaching-resources/slides/core/12-mechatronics.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
+
 ## 10. Engineering and manufacturing control systems
 
 ### 10.1 Principles and applications of control system theory
@@ -30,6 +34,10 @@ Students need to be able to produce and explain a system diagram with multiple i
 
 Covers sensor/actuator types (analogue, digital, active, passive), applications (switches, proximity sensors, laser, vision systems), power sources, and hard-wired versus wireless connections; and their uses in automation (positioning/measuring objects, mechanised lifting and moving, and measurement across electrical, mechanical, thermal, chemical, biological, optical and acoustic/radiation domains).
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Control Systems, Sensors and Actuators](../05-teaching-resources/slides/core/13-control-systems.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
+
 ## 11. Quality management
 
 ### 11.1 Quality standards, assurance, control and improvement
@@ -41,6 +49,10 @@ Students need to know the function/purpose of standards and how to access them, 
 ### 11.2 Types and applications of Standard Operating Procedures (SOPs) and their purposes
 
 Covers SOP types and applications (manufacturing, quality, maintenance) and purposes (standardising activity, customer satisfaction, safety, training). Students need to know the typical format/content of an SOP, how they're used in different applications, why they're used (consistency, conformance to standards), and how they're produced, implemented and evaluated.
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Quality Management and SOPs](../05-teaching-resources/slides/core/14-quality-management.pptx) (PowerPoint, 10 slides)
+<!-- lesson-slide:end -->
 
 ## 12. Health and safety principles and coverage
 
@@ -56,6 +68,10 @@ Covers how legislation affects accident/incident frequency, the importance of me
 
 Employee responsibilities include working safely, not attempting untrained/unauthorised tasks, co-operating with the employer, respecting duties placed on the employer or others, and not interfering with or misusing safety provisions. Employer responsibilities include minimising handling/storage/transport risks, providing instruction/training/supervision, maintaining a safe workplace, providing a health and safety policy statement, arranging safety representatives/committees, and protecting visitors, contractors and the public. Students should also know the differences between local, national and global requirements.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Health and Safety Legislation and Responsibilities](../05-teaching-resources/slides/core/15-health-and-safety-legislation.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
+
 ### 12.4 Risk assessment
 
 Covers the stages of risk assessment: identifying hazards (HAZOP, HAZID), evaluating risk (likelihood, severity, number of people affected), and implementing control measures using the hierarchy of control (elimination, reduction/substitution, isolation, engineering controls, administration/training/safe systems of work, PPE).
@@ -66,9 +82,17 @@ Students need to know engineering hazards (equipment, stored energy, tools, elec
 
 Covers considerations (safe systems of work, oxygen use, asphyxiation hazards, heat, moving parts, fire/explosion hazards, fire safety, guarding, manual handling, permit to work, lock out tag out/LOTO, maintenance) across contexts including chemicals, equipment with moving parts, confined spaces, electrical testing, and high-voltage electrical work (generation, distribution, isolation, storage).
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Risk Assessment and Hazardous Contexts](../05-teaching-resources/slides/core/16-risk-assessment-and-hazardous-contexts.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
+
 ### 12.6 Principles and practices relating to environmental legislation and considerations
 
 Key legislation: the Environmental Protection Act, Pollution Prevention and Control Act, Clean Air Act, Radioactive Substances Act, Controlled Waste Regulations, Dangerous Substances legislation, and Hazardous Waste Regulations. Considerations: ISO 14001 and waste disposal. Students need to know the main requirements and purpose of this legislation, who's responsible for compliance, the aims/benefits/consequences of ISO 14001, and waste disposal methods (landfill, reuse, recycling, controlled waste) and their implications.
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Environmental Legislation and Waste](../05-teaching-resources/slides/core/17-environmental-legislation.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
 
 ## 13. Business, commercial and financial awareness
 
@@ -84,6 +108,10 @@ Covers legal practices (tendering, contracts, warranties, force majeure, indemni
 
 Covers financial responsibility, recording transactions, sources of finance (loans, shares, capital), budgets, costs (direct, indirect, overheads), payment terms, revenue, creditors/debtors, cash flow, profit and loss, break-even, assets (depreciation), liabilities, solvency, taxes and rates. Students need to know what each concept means and its implications for running a business.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Business, Commercial and Financial Awareness](../05-teaching-resources/slides/core/18-business-commercial-and-financial-awareness.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
+
 ## 14. Professional responsibilities, attitudes, and behaviours
 
 ### 14.1 Professional conduct and responsibilities in the workplace
@@ -98,6 +126,10 @@ Covers CPD routes (training courses, industry placement, academic study, events/
 
 Covers human factors: human characteristics (physical, mental), workplace design considerations, and human error. Students need to know how human characteristics/capabilities/limitations affect a company and its production, how workplace design affects safety/comfort/productivity, and the causes of human error (insufficient training, fatigue, workload, stress) and how to reduce them.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Professional Conduct, CPD and Human Factors](../05-teaching-resources/slides/core/19-professional-conduct-cpd-and-human-factors.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
+
 ## 15. Stock and asset management
 
 ### 15.1 Stock and inventory management principles and practices
@@ -108,6 +140,10 @@ Principles: demand, stock turnover, cost of inventory, redundant stock/write-dow
 
 Covers capacity management (manufacturing resource planning, bottlenecks), the stages of asset life cycle management (planning, acquisition, operation and maintenance, disposal), and budgetary control practices (life cycle/whole-life approach, depreciation). Students need to know the purpose and methodology of effective asset management and the trade-offs between capacity-management methods.
 
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Stock and Asset Management](../05-teaching-resources/slides/core/20-stock-and-asset-management.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
+
 ## 16. Continuous improvement
 
 ### 16.1 Continuous improvement principles and practices
@@ -115,6 +151,10 @@ Covers capacity management (manufacturing resource planning, bottlenecks), the s
 Principles: reflection and evaluation of processes, incremental change, key performance indicators (KPIs), the PDCA cycle (plan, do, check, act), the 8 wastes (transportation, inventory, motion, waiting, excess production, overprocessing, defects, unused talent), lean, and Kaizen. Practices: value stream mapping, visual management, 6S (sort, set in order, shine, standardise, sustain, safety), SMED (single minute exchange of dies), OEE (overall equipment effectiveness), TPM (total productive maintenance), and kanban.
 
 Students need to know how to gather feedback/evidence about performance (including KPI types) to evaluate improvement activity, how the 8 wastes affect engineering performance, and the purpose/methodology/benefits/limitations of each practice.
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Continuous Improvement](../05-teaching-resources/slides/core/21-continuous-improvement.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
 
 ## 17. Project and programme management
 
@@ -129,6 +169,32 @@ Covers roles (stakeholders including clients and regulators, project manager, te
 ### 17.3 Project planning and control
 
 Planning: resource requirements (time, budget, people, training, communication, production facilities), Gantt charts, critical path analysis (CPA), PERT, managing interdependencies, contingency planning. Control: monitoring reports (budget, quality, cost, time), managing by stages, managing by exception. Students need to know how to identify resource requirements, the benefits/limitations of different planning methods, how to plan using them, and how to monitor, evaluate and review projects to improve future ones.
+
+<!-- lesson-slide:start -->
+> **Lesson slides for this section:** [Project and Programme Management](../05-teaching-resources/slides/core/22-project-management.pptx) (PowerPoint, 9 slides)
+<!-- lesson-slide:end -->
+
+<!-- teaching-resources:start -->
+## Teaching resources
+
+Ready-made lesson slides for this topic. Each PowerPoint includes learning objectives, a starter, teaching slides, a quiz with answers, an activity and an exit ticket, with teacher notes on every slide. Download it and adapt it for your class.
+
+| Lesson slides | Covers | Slides |
+|---|---|---|
+| [Mechatronics, PLCs, Hydraulics and Pneumatics (PowerPoint)](../05-teaching-resources/slides/core/12-mechatronics.pptx) | 9.1, 9.2, 9.3 | 9 |
+| [Control Systems, Sensors and Actuators (PowerPoint)](../05-teaching-resources/slides/core/13-control-systems.pptx) | 10.1, 10.2 | 10 |
+| [Quality Management and SOPs (PowerPoint)](../05-teaching-resources/slides/core/14-quality-management.pptx) | 11.1, 11.2 | 10 |
+| [Health and Safety Legislation and Responsibilities (PowerPoint)](../05-teaching-resources/slides/core/15-health-and-safety-legislation.pptx) | 12.1, 12.2, 12.3 | 9 |
+| [Risk Assessment and Hazardous Contexts (PowerPoint)](../05-teaching-resources/slides/core/16-risk-assessment-and-hazardous-contexts.pptx) | 12.4, 12.5 | 9 |
+| [Environmental Legislation and Waste (PowerPoint)](../05-teaching-resources/slides/core/17-environmental-legislation.pptx) | 12.6 | 9 |
+| [Business, Commercial and Financial Awareness (PowerPoint)](../05-teaching-resources/slides/core/18-business-commercial-and-financial-awareness.pptx) | 13.1, 13.2, 13.3 | 9 |
+| [Professional Conduct, CPD and Human Factors (PowerPoint)](../05-teaching-resources/slides/core/19-professional-conduct-cpd-and-human-factors.pptx) | 14.1, 14.2, 14.3 | 9 |
+| [Stock and Asset Management (PowerPoint)](../05-teaching-resources/slides/core/20-stock-and-asset-management.pptx) | 15.1, 15.2 | 9 |
+| [Continuous Improvement (PowerPoint)](../05-teaching-resources/slides/core/21-continuous-improvement.pptx) | 16.1 | 9 |
+| [Project and Programme Management (PowerPoint)](../05-teaching-resources/slides/core/22-project-management.pptx) | 17.1, 17.2, 17.3 | 9 |
+
+See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
+<!-- teaching-resources:end -->
 
 ## Key terms
 
