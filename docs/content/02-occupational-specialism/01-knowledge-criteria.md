@@ -15,7 +15,7 @@ Learners need to know how to agree the scope of a project, identify/confirm/reco
 Covers the systems approach, sub-assembly, and component-by-component methodologies. Learners need to understand design practices including planned obsolescence, the contexts different methodologies suit, their purpose/benefits/limitations, how to interpret anthropometric data tables for ergonomic design, and how process capability and tolerances influence Design for Manufacture/Assembly (DFM/DFA).
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Design Principles, Methodologies and Verification](../05-teaching-resources/slides/specialism/01-design-principles-methodologies-and-verification.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Design Principles, Methodologies and Verification](../05-teaching-resources/slides/specialism/01-design-principles-methodologies-and-verification.pptx) (PowerPoint, 15 slides)
 <!-- lesson-slide:end -->
 
 ## 1.3 Engineering representations
@@ -27,7 +27,7 @@ Covers the characteristics of orthographic drawings (sheet size, section views/h
 Covers relevant bodies - British Standards (BSI), International Organization for Standardization (ISO), Institution of Mechanical Engineers (IMechE). Learners need to know the purpose and requirements of these standards for mechanical component design, their key responsibilities and codes, and how to access and interpret regulatory requirements and responsibilities.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Mechanical Drawings, Standards and Communication](../05-teaching-resources/slides/specialism/02-mechanical-drawings-standards-and-communication.pptx) (PowerPoint, 10 slides)
+> **Lesson slides for this section:** [Mechanical Drawings, Standards and Communication](../05-teaching-resources/slides/specialism/02-mechanical-drawings-standards-and-communication.pptx) (PowerPoint, 14 slides)
 <!-- lesson-slide:end -->
 
 ## 1.5 Mathematical theories and methods
@@ -39,7 +39,7 @@ Covers gear ratio, velocity ratio, mechanical advantage, efficiency, stress, str
 Covers gears, pulleys, levers, linkages, cams and ratchets. Learners need to know how each type changes the magnitude, direction or type of motion; the types and applications of gears (spur, helical, bevel, worm, rack and pinion) including calculations for simple and compound gear trains; types and applications of levers (class 1, 2, 3); types and applications of linkages (reverse motion, parallel motion, bell crank, crank and slider); and types and applications of cams (circular, eccentric, snail).
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Simple Machines and Mechanical Calculations](../05-teaching-resources/slides/specialism/03-simple-machines-and-mechanical-calculations.pptx) (PowerPoint, 10 slides)
+> **Lesson slides for this section:** [Simple Machines and Mechanical Calculations](../05-teaching-resources/slides/specialism/03-simple-machines-and-mechanical-calculations.pptx) (PowerPoint, 16 slides)
 <!-- lesson-slide:end -->
 
 ## 1.7 Influence of engineering requirements on design outcomes
@@ -47,7 +47,7 @@ Covers gears, pulleys, levers, linkages, cams and ratchets. Learners need to kno
 Covers mechanical loads (static/dynamic/structural/fluid loading, point loading, uniform loading, torque, shear forces, bending moments, fatigue) and service/environmental conditions (chemical attack/corrosion, temperature, functional properties). Learners need to know how load type affects mechanical properties, how environmental conditions affect material characteristics and functionality, and other factors (manufacturing, material choice) that shape a design outcome.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Loads, Environment and Aerodynamics in Design](../05-teaching-resources/slides/specialism/04-loads-environment-and-aerodynamics.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Loads, Environment and Aerodynamics in Design](../05-teaching-resources/slides/specialism/04-loads-environment-and-aerodynamics.pptx) (PowerPoint, 13 slides)
 <!-- lesson-slide:end -->
 
 ## 1.8 Verification and validation in design practices
@@ -55,7 +55,7 @@ Covers mechanical loads (static/dynamic/structural/fluid loading, point loading,
 Covers comparing outcomes against the brief/specification, user testing, comparison matrices, ranking, decision trees and functional testing. Learners need to know the difference between verification and validation, where each applies, why meeting specifications matters at each design stage, the relative advantages/limitations of each approach, and how these methods confirm an outcome meets its original specification.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Design Principles, Methodologies and Verification](../05-teaching-resources/slides/specialism/01-design-principles-methodologies-and-verification.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Design Principles, Methodologies and Verification](../05-teaching-resources/slides/specialism/01-design-principles-methodologies-and-verification.pptx) (PowerPoint, 15 slides)
 <!-- lesson-slide:end -->
 
 ## 1.9 Business context, constraints and metrics
@@ -63,7 +63,7 @@ Covers comparing outcomes against the brief/specification, user testing, compari
 Covers context (market pull vs. technology push, commercial advantage, design for reuse, planned obsolescence, sustainability); constraints (commercial factors like competition/profitability, operational factors like tools/equipment/materials/process capability/human resources/training/legal/confidentiality, design for manufacture); and metrics (budget, cost, profit, time). Learners need to understand market pull vs. technology push, how context influences product design, how to calculate manufacturing cost (materials, labour, overheads) and profit, why constraints exist and how they can be overcome, and the impact of commercial risk analysis on project design review.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Business Context, Constraints and Metrics in Design](../05-teaching-resources/slides/specialism/05-business-context-constraints-and-metrics.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Business Context, Constraints and Metrics in Design](../05-teaching-resources/slides/specialism/05-business-context-constraints-and-metrics.pptx) (PowerPoint, 13 slides)
 <!-- lesson-slide:end -->
 
 ## 1.10 Materials and standard parts
@@ -75,7 +75,7 @@ Covers considerations (fitness for purpose, material availability, managing risk
 Covers wasting processes (cutting, filing, turning, milling, grinding), shaping (casting, moulding), forming (bending, pressing), welding (MIG/MAG, TIG), 3D printing, joining, finishing and assembly. Learners need to know how each process forms products, the tools/equipment typically used, comparative advantages and disadvantages, and why tolerances and fits matter for assembly.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Materials, Standard Parts and Manufacturing Processes](../05-teaching-resources/slides/specialism/06-materials-standard-parts-and-processes.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Materials, Standard Parts and Manufacturing Processes](../05-teaching-resources/slides/specialism/06-materials-standard-parts-and-processes.pptx) (PowerPoint, 13 slides)
 <!-- lesson-slide:end -->
 
 ## 1.12 Aerodynamic forces on design
@@ -83,7 +83,7 @@ Covers wasting processes (cutting, filing, turning, milling, grinding), shaping 
 Covers fluid flow (laminar flow, separation points, vortices, turbulence), lift, drag, turbulence and thrust. Learners need to be able to interpret 2D representations of fluid flow around simple objects, and understand how lift, drag, thrust and turbulence apply aerodynamic loading to structures.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Loads, Environment and Aerodynamics in Design](../05-teaching-resources/slides/specialism/04-loads-environment-and-aerodynamics.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Loads, Environment and Aerodynamics in Design](../05-teaching-resources/slides/specialism/04-loads-environment-and-aerodynamics.pptx) (PowerPoint, 13 slides)
 <!-- lesson-slide:end -->
 
 ## 1.13 Mathematical calculations for design development
@@ -91,7 +91,7 @@ Covers fluid flow (laminar flow, separation points, vortices, turbulence), lift,
 Covers force calculations (stress, strain, Young's modulus, structural member loading - compressive/tensile - and beam analysis for simply-supported/cantilever beams including reactions, shear force and bending moment); material requirement calculations (quantity by area/volume/units, material and manufacturing cost); and machine performance calculations (load, effort, mechanical advantage, velocity ratio, work, energy, power, efficiency).
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Simple Machines and Mechanical Calculations](../05-teaching-resources/slides/specialism/03-simple-machines-and-mechanical-calculations.pptx) (PowerPoint, 10 slides)
+> **Lesson slides for this section:** [Simple Machines and Mechanical Calculations](../05-teaching-resources/slides/specialism/03-simple-machines-and-mechanical-calculations.pptx) (PowerPoint, 16 slides)
 <!-- lesson-slide:end -->
 
 ## 1.14 Health and safety in mechanical engineering
@@ -99,7 +99,7 @@ Covers force calculations (stress, strain, Young's modulus, structural member lo
 Covers the Environmental Protection Act, Lifting Operations and Lifting Equipment Regulations (LOLER), Manual Handling Operations Regulations, and PUWER. Learners need to know the specific procedures, protocols and legal/regulatory requirements that apply to mechanical engineering design and development activity, the importance of and route to compliance, and employer/employee responsibilities under the regulations.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Health and Safety Legislation and Responsibilities](../05-teaching-resources/slides/core/15-health-and-safety-legislation.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Health and Safety Legislation and Responsibilities](../05-teaching-resources/slides/core/15-health-and-safety-legislation.pptx) (PowerPoint, 13 slides)
 <!-- lesson-slide:end -->
 
 ## 1.15 Quality factors, assurance and control
@@ -107,7 +107,7 @@ Covers the Environmental Protection Act, Lifting Operations and Lifting Equipmen
 Covers assignable/systematic error causes (faulty equipment calibration, tool wear, observer bias, human error) versus random causes (ambient/environmental conditions, temperature, humidity, instrument uncertainty); and quality control practices - quality assurance (procedures, calibration, process capability monitoring, preventative maintenance) versus quality control (testing, inspection). Learners need to know the difference between assignable and random causes, how each results in errors and how that risk can be reduced, why process checks/inspections are necessary, the trade-off between sampling and 100% inspection, and how production quantity shapes the quality approach.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Quality, Testing and Measurement](../05-teaching-resources/slides/specialism/07-quality-testing-and-measurement.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Quality, Testing and Measurement](../05-teaching-resources/slides/specialism/07-quality-testing-and-measurement.pptx) (PowerPoint, 15 slides)
 <!-- lesson-slide:end -->
 
 ## 1.16 Installation and integration of systems
@@ -115,7 +115,7 @@ Covers assignable/systematic error causes (faulty equipment calibration, tool we
 Covers installation (customer requirements, regulatory requirements, manufacturer specifications) and integration (combining systems, functions, designs, planning, processes). Learners need to know the requirements/procedures/considerations for installing mechanical systems, the key stages and sequence of system integration, and how sub-systems are brought together into one functioning system.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Installation and Integration of Systems](../05-teaching-resources/slides/specialism/08-installation-and-integration.pptx) (PowerPoint, 8 slides)
+> **Lesson slides for this section:** [Installation and Integration of Systems](../05-teaching-resources/slides/specialism/08-installation-and-integration.pptx) (PowerPoint, 12 slides)
 <!-- lesson-slide:end -->
 
 ## 1.17 Testing methods
@@ -131,7 +131,7 @@ Covers rules, protractors, callipers (Vernier, digital), micrometres (outside, i
 Covers processing test results and performance data. Learners need to be able to determine and analyse statistical values when measuring, checking and confirming test and performance data.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Quality, Testing and Measurement](../05-teaching-resources/slides/specialism/07-quality-testing-and-measurement.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Quality, Testing and Measurement](../05-teaching-resources/slides/specialism/07-quality-testing-and-measurement.pptx) (PowerPoint, 15 slides)
 <!-- lesson-slide:end -->
 
 ## 1.20 Communicating mechanical engineering information
@@ -139,7 +139,7 @@ Covers processing test results and performance data. Learners need to be able to
 Covers methods (CAD models, engineering drawings, written data such as specifications/SOPs/reports, presentations, transmitting instructions to CNC machines via direct entry/intranet/WiFi, graphs of performance data/test results/SPC) and audiences (designers, manufacturing engineers, customers, non-technical personnel). Learners need to know the media/formats/conventions used to communicate engineering data (including BS 8888), how to transfer data from CAD to CAM, the applications and benefits of 2D versus 3D CAD, how CAE tools visualise simulated CAD assembly performance, and the uses of visualisation software.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Mechanical Drawings, Standards and Communication](../05-teaching-resources/slides/specialism/02-mechanical-drawings-standards-and-communication.pptx) (PowerPoint, 10 slides)
+> **Lesson slides for this section:** [Mechanical Drawings, Standards and Communication](../05-teaching-resources/slides/specialism/02-mechanical-drawings-standards-and-communication.pptx) (PowerPoint, 14 slides)
 <!-- lesson-slide:end -->
 
 <!-- teaching-resources:start -->
@@ -149,15 +149,15 @@ Ready-made lesson slides for this topic. Each PowerPoint includes learning objec
 
 | Lesson slides | Covers | Slides |
 |---|---|---|
-| [Health and Safety Legislation and Responsibilities (PowerPoint)](../05-teaching-resources/slides/core/15-health-and-safety-legislation.pptx) | 12.1, 12.2, 12.3 | 9 |
-| [Design Principles, Methodologies and Verification (PowerPoint)](../05-teaching-resources/slides/specialism/01-design-principles-methodologies-and-verification.pptx) | 1.1, 1.2, 1.8 | 9 |
-| [Mechanical Drawings, Standards and Communication (PowerPoint)](../05-teaching-resources/slides/specialism/02-mechanical-drawings-standards-and-communication.pptx) | 1.3, 1.4, 1.20 | 10 |
-| [Simple Machines and Mechanical Calculations (PowerPoint)](../05-teaching-resources/slides/specialism/03-simple-machines-and-mechanical-calculations.pptx) | 1.5, 1.6, 1.13 | 10 |
-| [Loads, Environment and Aerodynamics in Design (PowerPoint)](../05-teaching-resources/slides/specialism/04-loads-environment-and-aerodynamics.pptx) | 1.7, 1.12 | 9 |
-| [Business Context, Constraints and Metrics in Design (PowerPoint)](../05-teaching-resources/slides/specialism/05-business-context-constraints-and-metrics.pptx) | 1.9 | 9 |
-| [Materials, Standard Parts and Manufacturing Processes (PowerPoint)](../05-teaching-resources/slides/specialism/06-materials-standard-parts-and-processes.pptx) | 1.10, 1.11 | 9 |
-| [Quality, Testing and Measurement (PowerPoint)](../05-teaching-resources/slides/specialism/07-quality-testing-and-measurement.pptx) | 1.15, 1.17, 1.18, 1.19 | 9 |
-| [Installation and Integration of Systems (PowerPoint)](../05-teaching-resources/slides/specialism/08-installation-and-integration.pptx) | 1.16 | 8 |
+| [Health and Safety Legislation and Responsibilities (PowerPoint)](../05-teaching-resources/slides/core/15-health-and-safety-legislation.pptx) | 12.1, 12.2, 12.3 | 13 |
+| [Design Principles, Methodologies and Verification (PowerPoint)](../05-teaching-resources/slides/specialism/01-design-principles-methodologies-and-verification.pptx) | 1.1, 1.2, 1.8 | 15 |
+| [Mechanical Drawings, Standards and Communication (PowerPoint)](../05-teaching-resources/slides/specialism/02-mechanical-drawings-standards-and-communication.pptx) | 1.3, 1.4, 1.20 | 14 |
+| [Simple Machines and Mechanical Calculations (PowerPoint)](../05-teaching-resources/slides/specialism/03-simple-machines-and-mechanical-calculations.pptx) | 1.5, 1.6, 1.13 | 16 |
+| [Loads, Environment and Aerodynamics in Design (PowerPoint)](../05-teaching-resources/slides/specialism/04-loads-environment-and-aerodynamics.pptx) | 1.7, 1.12 | 13 |
+| [Business Context, Constraints and Metrics in Design (PowerPoint)](../05-teaching-resources/slides/specialism/05-business-context-constraints-and-metrics.pptx) | 1.9 | 13 |
+| [Materials, Standard Parts and Manufacturing Processes (PowerPoint)](../05-teaching-resources/slides/specialism/06-materials-standard-parts-and-processes.pptx) | 1.10, 1.11 | 13 |
+| [Quality, Testing and Measurement (PowerPoint)](../05-teaching-resources/slides/specialism/07-quality-testing-and-measurement.pptx) | 1.15, 1.17, 1.18, 1.19 | 15 |
+| [Installation and Integration of Systems (PowerPoint)](../05-teaching-resources/slides/specialism/08-installation-and-integration.pptx) | 1.16 | 12 |
 
 See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
 <!-- teaching-resources:end -->

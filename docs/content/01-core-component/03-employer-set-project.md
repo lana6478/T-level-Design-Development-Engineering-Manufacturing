@@ -5,7 +5,7 @@
 The Employer-set project (ESP) is one of three assessment components in the core, worth 30% of the core and 18.5 hours of assessment time. It's externally set and externally marked by City & Guilds, and it's designed to make learners identify and use, in an integrated way, an appropriate selection of skills, techniques, concepts, theories and knowledge drawn from across the whole engineering common core content.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [The Employer-set Project](../05-teaching-resources/slides/core/23-employer-set-project.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [The Employer-set Project](../05-teaching-resources/slides/core/23-employer-set-project.pptx) (PowerPoint, 13 slides)
 <!-- lesson-slide:end -->
 
 ## What the project involves
@@ -46,7 +46,7 @@ Ready-made lesson slides for this topic. Each PowerPoint includes learning objec
 
 | Lesson slides | Covers | Slides |
 |---|---|---|
-| [The Employer-set Project (PowerPoint)](../05-teaching-resources/slides/core/23-employer-set-project.pptx) | Employer-set Project | 9 |
+| [The Employer-set Project (PowerPoint)](../05-teaching-resources/slides/core/23-employer-set-project.pptx) | Employer-set Project | 13 |
 
 See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
 <!-- teaching-resources:end -->

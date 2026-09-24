@@ -17,7 +17,7 @@ This page covers the **Practical criteria for Performance Outcomes 2-6** - the h
 **2.5 Use technology to evaluate mechanical design elements.** Covers technology (mathematical calculations, CAD simulations, physical modelling) applied to design elements (systems, components, assemblies, products, processes). Learners use appropriate technology, including CAD, to review, analyse and interpret design elements in proposals and products.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Analysing Requirements and Design Information](../05-teaching-resources/slides/specialism/09-analysing-requirements-and-design-information.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Analysing Requirements and Design Information](../05-teaching-resources/slides/specialism/09-analysing-requirements-and-design-information.pptx) (PowerPoint, 13 slides)
 <!-- lesson-slide:end -->
 
 ## Outcome 3: Evaluate systems, designs, components and processes, managing and integrating design information, proposals and specifications, to develop and improve mechanical engineering and manufacturing proposals and solutions
@@ -41,7 +41,7 @@ This page covers the **Practical criteria for Performance Outcomes 2-6** - the h
 **3.9 Respond constructively and creatively to project/task changes and feedback.** Learners follow a process for confirming the scope of new requirements and the route to revising or resolving them, understand the importance of responding constructively, and log/record changes throughout the design process.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Evaluating and Improving Designs](../05-teaching-resources/slides/specialism/10-evaluating-and-improving-designs.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Evaluating and Improving Designs](../05-teaching-resources/slides/specialism/10-evaluating-and-improving-designs.pptx) (PowerPoint, 13 slides)
 <!-- lesson-slide:end -->
 
 ## Outcome 4: Propose and design mechanical engineering and manufacturing systems, products, components, processes and solutions, considering requirements, constraints and context
@@ -63,7 +63,7 @@ This page covers the **Practical criteria for Performance Outcomes 2-6** - the h
 **4.8 Produce high-quality designs of realisable mechanical systems that satisfy requirements.** Covers standards, functional requirements (dimensions, mechanical properties, aesthetics, maintenance) and non-functional requirements (cost, quality). Learners test and evaluate finished products, demonstrate commercial realisability, and check designs can actually be manufactured, operated and maintained.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Designing, Modelling and Prototyping](../05-teaching-resources/slides/specialism/11-designing-modelling-and-prototyping.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Designing, Modelling and Prototyping](../05-teaching-resources/slides/specialism/11-designing-modelling-and-prototyping.pptx) (PowerPoint, 13 slides)
 <!-- lesson-slide:end -->
 
 ## Outcome 5: Collaborate to help manage, develop, test and quality assure mechanical engineering and manufacturing design information, systems, processes and outcomes
@@ -79,7 +79,7 @@ This page covers the **Practical criteria for Performance Outcomes 2-6** - the h
 **5.5 Produce and quality assure design information to professional standards.** Covers design information (proposals, specifications, engineering drawings, technical information) against professional standards (Engineering Council, IMechE, IET). Learners produce, manage, quality assure and validate this information, and check completed drawings for quality, technical compliance and completeness.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Collaboration, Risk and Quality Assurance](../05-teaching-resources/slides/specialism/12-collaboration-risk-and-quality-assurance.pptx) (PowerPoint, 9 slides)
+> **Lesson slides for this section:** [Collaboration, Risk and Quality Assurance](../05-teaching-resources/slides/specialism/12-collaboration-risk-and-quality-assurance.pptx) (PowerPoint, 13 slides)
 <!-- lesson-slide:end -->
 
 ## Outcome 6: Communicate proposals, design information and solutions, producing, recording and explaining engineering and manufacturing representations, systems, processes, outcomes, specifications and technical drawings
@@ -89,7 +89,7 @@ This page covers the **Practical criteria for Performance Outcomes 2-6** - the h
 **6.2 Communicate design information and options with technical and non-technical audiences.** Covers design information (specifications, proposals, working drawings, representations, technical/non-technical data, systems, processes, risks, outcomes), audiences (stakeholders, colleagues, clients) and formats (sketches, schemes, detailed drawings, diagrams, models, reports). Learners select formats suited to cost, time, availability, end user and project scale, clearly evidence stages of the design process, and communicate/coordinate design information across audiences.
 
 <!-- lesson-slide:start -->
-> **Lesson slides for this section:** [Technical Documentation and Communication](../05-teaching-resources/slides/specialism/13-technical-documentation-and-communication.pptx) (PowerPoint, 8 slides)
+> **Lesson slides for this section:** [Technical Documentation and Communication](../05-teaching-resources/slides/specialism/13-technical-documentation-and-communication.pptx) (PowerPoint, 12 slides)
 <!-- lesson-slide:end -->
 
 ## Guidance for delivery
@@ -105,11 +105,11 @@ Ready-made lesson slides for this topic. Each PowerPoint includes learning objec
 
 | Lesson slides | Covers | Slides |
 |---|---|---|
-| [Analysing Requirements and Design Information (PowerPoint)](../05-teaching-resources/slides/specialism/09-analysing-requirements-and-design-information.pptx) | Outcome 2 (2.1 to 2.5) | 9 |
-| [Evaluating and Improving Designs (PowerPoint)](../05-teaching-resources/slides/specialism/10-evaluating-and-improving-designs.pptx) | Outcome 3 (3.1 to 3.9) | 9 |
-| [Designing, Modelling and Prototyping (PowerPoint)](../05-teaching-resources/slides/specialism/11-designing-modelling-and-prototyping.pptx) | Outcome 4 (4.1 to 4.8) | 9 |
-| [Collaboration, Risk and Quality Assurance (PowerPoint)](../05-teaching-resources/slides/specialism/12-collaboration-risk-and-quality-assurance.pptx) | Outcome 5 (5.1 to 5.5) | 9 |
-| [Technical Documentation and Communication (PowerPoint)](../05-teaching-resources/slides/specialism/13-technical-documentation-and-communication.pptx) | Outcome 6 (6.1, 6.2) | 8 |
+| [Analysing Requirements and Design Information (PowerPoint)](../05-teaching-resources/slides/specialism/09-analysing-requirements-and-design-information.pptx) | Outcome 2 (2.1 to 2.5) | 13 |
+| [Evaluating and Improving Designs (PowerPoint)](../05-teaching-resources/slides/specialism/10-evaluating-and-improving-designs.pptx) | Outcome 3 (3.1 to 3.9) | 13 |
+| [Designing, Modelling and Prototyping (PowerPoint)](../05-teaching-resources/slides/specialism/11-designing-modelling-and-prototyping.pptx) | Outcome 4 (4.1 to 4.8) | 13 |
+| [Collaboration, Risk and Quality Assurance (PowerPoint)](../05-teaching-resources/slides/specialism/12-collaboration-risk-and-quality-assurance.pptx) | Outcome 5 (5.1 to 5.5) | 13 |
+| [Technical Documentation and Communication (PowerPoint)](../05-teaching-resources/slides/specialism/13-technical-documentation-and-communication.pptx) | Outcome 6 (6.1, 6.2) | 12 |
 
 See [all lesson slides](../05-teaching-resources/01-lesson-slides.md) for every topic.
 <!-- teaching-resources:end -->
